@@ -1,0 +1,12 @@
+{
+  "name": "MasterShit",
+  "symbol": "MSC",
+  "description": "🌟 "Get Ready to Hold the Shit!" 🌟
+Ever felt like your portfolio was missing something… truly absurd? Something that defies logic, yet somehow works in the weirdest way? Welcome to MasterShit Coin (MSC) — the one coin that will make you question everything you knew about crypto.",
+  "image": "https://ibb.co/7r7MZvT",
+  "extensions": {
+    "website": "mastershitcoin.com",
+    "twitter": "https;//x.com/tremiat62705",
+    "telegram": "t.me/mastershitcoin"
+  }
+}
